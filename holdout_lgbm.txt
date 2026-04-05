@@ -1,0 +1,6 @@
+Holdout season: 2024
+Rows: 380
+LogLoss raw: 0.9498
+LogLoss cal: 0.9478
+Accuracy raw: 0.5658
+Accuracy cal: 0.5842
